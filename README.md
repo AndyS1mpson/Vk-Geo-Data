@@ -1,3 +1,3 @@
 # Vk-Geo-Data
 
-Load data about Moscow photos and users with Vk API
+Simple script for loading data about Moscow photos taken in Moscow and people living in Moscow from Vk API and saving this in MongoDb claster 
