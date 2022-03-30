@@ -16,9 +16,14 @@ RADIUS = 50000
 # amount of results
 COUNT = 500
 
-CITY=1    # Moscow id
-COUNTRY=1 # Russia id
-SEX=1   # Women
+# Moscow id
+CITY=1
+
+# Russia id
+COUNTRY=1
+
+# Women
+SEX=1
 
 ACCESS_TOKEN = os.getenv('ACCESS_TOKEN')
 MONGO_CONNECTION_STRING = os.getenv('MONGO_CONNECTION_STRING')
